@@ -9,6 +9,7 @@ HooBank is a modern, responsive fintech website showcasing the next generation o
 ## ✨ Enhanced Features
 
 ### 🎯 **Core Pages**
+
 - **Landing Page** - Modern hero section with smooth animations
 - **How It Works** - Interactive step-by-step process explanation
 - **Blog** - Dynamic blog with search, filtering, and categories
@@ -16,6 +17,7 @@ HooBank is a modern, responsive fintech website showcasing the next generation o
 - **Join Waitlist** - Beautiful waitlist signup with success states
 
 ### 🚀 **Advanced Functionality**
+
 - **Single Page Application (SPA)** with React Router
 - **Responsive Design** optimized for all devices
 - **Modern Animations** using Framer Motion
@@ -24,6 +26,7 @@ HooBank is a modern, responsive fintech website showcasing the next generation o
 - **Success States** with personalized user feedback
 
 ### 🎨 **UI/UX Enhancements**
+
 - **Smooth Animations** and micro-interactions
 - **Gradient Effects** and glass morphism design
 - **Floating Particles** and ambient animations
@@ -34,21 +37,25 @@ HooBank is a modern, responsive fintech website showcasing the next generation o
 ## 🛠️ Technologies Used
 
 ### **Frontend Framework**
+
 - **React 18** - Modern React with hooks and functional components
 - **Vite** - Fast build tool and development server
 - **React Router DOM** - Client-side routing for SPA
 
 ### **Styling & Design**
+
 - **Tailwind CSS** - Utility-first CSS framework
 - **Custom CSS** - Enhanced gradients and animations
 - **Responsive Design** - Mobile-first approach
 
 ### **Animations & Interactions**
+
 - **Framer Motion** - Production-ready animation library
 - **CSS Animations** - Custom keyframe animations
 - **Hover Effects** - Interactive UI elements
 
 ### **Icons & Assets**
+
 - **Lucide React** - Beautiful, customizable icons
 - **Custom SVGs** - Optimized vector graphics
 - **High-Quality Images** - Professional fintech imagery
@@ -56,23 +63,27 @@ HooBank is a modern, responsive fintech website showcasing the next generation o
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - Node.js (v14 or higher)
 - npm or yarn package manager
 
 ### Installation
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/Haydarah-8/hoobank.git
    cd hoobank
    ```
 
 2. **Install dependencies**
+
    ```bash
    npm install
    ```
 
 3. **Start the development server**
+
    ```bash
    npm run dev
    ```
@@ -90,6 +101,7 @@ npm run preview
 ## 📱 Page Structure
 
 ### **Landing Page (`/`)**
+
 - Hero section with call-to-action
 - Features showcase
 - Statistics and testimonials
@@ -97,24 +109,28 @@ npm run preview
 - Footer with navigation
 
 ### **How It Works (`/how-it-works`)**
+
 - Step-by-step process explanation
 - Interactive feature cards
 - Animated counters and statistics
 - Premium call-to-action section
 
 ### **Blog (`/blog`)**
+
 - Featured article showcase
 - Search and category filtering
 - Responsive blog post grid
 - Newsletter signup section
 
 ### **Become a Partner (`/become-a-partner`)**
+
 - Partnership types overview
 - Benefits and features showcase
 - Multi-step application form
 - Success confirmation page
 
 ### **Join Waitlist (`/join-waitlist`)**
+
 - Exclusive early access signup
 - Live waitlist counter
 - Success state with next steps
@@ -123,17 +139,20 @@ npm run preview
 ## 🎨 Design System
 
 ### **Color Palette**
+
 - **Primary**: Dark theme (`#00040f`)
 - **Secondary**: Cyan blue (`#00f6ff`)
 - **Accent**: Blue variations (`#5ce1e6`, `#33bbcf`)
 - **Text**: White and dimmed white variants
 
 ### **Typography**
+
 - **Font Family**: Poppins (Google Fonts)
 - **Weights**: 400, 500, 600, 700, 800, 900
 - **Responsive Sizing**: Mobile-first approach
 
 ### **Components**
+
 - **Buttons** - Gradient backgrounds with hover effects
 - **Cards** - Glass morphism with subtle borders
 - **Forms** - Enhanced inputs with focus states
